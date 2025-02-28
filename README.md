@@ -49,3 +49,9 @@ TRX
 
 
 
+# 사용 방법
+
+train.ipynb 마지막 ploty 차트 부분 참고 (train.ipynb의 finder 함수 이용) (ipynb 파일을 py로 export 후 finder 이용 가능)
+
+
+
