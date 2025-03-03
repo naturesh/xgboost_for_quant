@@ -56,7 +56,9 @@ SOL
 ![sol](https://github.com/user-attachments/assets/66bb1d1f-22c2-4134-a9ae-2f2915062efc)
 <br><br><br>
 
-
+ETC
+![newplot](https://github.com/user-attachments/assets/0a04a2ff-0c39-4152-8d9b-f96c04b290ab)
+<br><br><br>
 
 
 # 사용 방법
